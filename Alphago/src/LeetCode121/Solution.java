@@ -46,9 +46,9 @@ public class Solution {
 		
 		for(int i=0; i< prices.length; i++) {
 			if(prices[i] < min) {
-				min = prices[i];
-			}else if(prices[i]-min > max) {
-				max = prices[i]-min;
+				min = prices[i];	//사는 날 구하기 (최솟값)
+			}else if(prices[i]-min > max) {	//파는날 구하기(최댓값)
+				max = prices[i]-min;	//max에 이익 저장
 			}
 		}
 		
