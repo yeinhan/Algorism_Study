@@ -1,5 +1,6 @@
 package Programmers.PhoneBook;
 /*
+ * 
  * 정확성  테스트
 테스트 1 〉	통과 (0.03ms, 53.6MB)
 테스트 2 〉	통과 (0.02ms, 52.4MB)
@@ -48,7 +49,7 @@ public class Solution {
 //			String str = test[i];
 //			
 //			for(int j=0; j<test.length; j++) {
-//				System.out.println("str:"+str+", test["+j+"]:"+test[j]+" = "+test[j].startsWith(str));
+//				System.out.println("Star:"+str+", test["+j+"]:"+test[j]+" = "+test[j].startsWith(str));
 //			}
 //		}
 		
