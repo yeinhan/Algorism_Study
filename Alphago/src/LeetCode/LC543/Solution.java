@@ -1,4 +1,4 @@
-package LeetCode543;
+package LeetCode.LC543;
 
 /*
  * depth: 루트 노드에서 자식노드까지 가는 길이

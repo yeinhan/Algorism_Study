@@ -1,4 +1,4 @@
-package LeetCode739;
+package LeetCode.LC739;
 
 import java.util.Arrays;
 

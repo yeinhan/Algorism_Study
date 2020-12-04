@@ -1,4 +1,4 @@
-package LeetCode121;
+package LeetCode.LC121;
 
 public class Solution {
 	
