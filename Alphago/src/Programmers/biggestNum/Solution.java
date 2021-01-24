@@ -1,4 +1,4 @@
-package Programmers.bigestNum;
+package Programmers.biggestNum;
 
 /*
  * 
